@@ -1,0 +1,42 @@
+07:49:46.219 [main] DEBUG tests.loginTest - Browser Got Launched
+07:49:49.182 [main] DEBUG tests.loginTest - Navigated to Application URL
+07:50:33.103 [main] DEBUG tests.loginTest - Clicked on My Account DropDown in Home Page
+07:50:33.788 [main] DEBUG tests.loginTest - Clicked on Login option under My Account
+07:50:33.993 [main] DEBUG tests.loginTest - Email address got entered
+07:50:34.142 [main] DEBUG tests.loginTest - Password got entered
+07:50:35.077 [main] DEBUG tests.loginTest - Clicked on Login Button
+07:50:35.167 [main] DEBUG tests.loginTest - User Got Logged in
+07:50:35.171 [main] INFO  tests.loginTest - Login Test Got Passed
+07:50:35.402 [main] DEBUG tests.loginTest - Browser Got closed
+07:50:37.199 [main] DEBUG tests.loginTest - Browser Got Launched
+07:51:06.872 [main] DEBUG tests.loginTest - Navigated to Application URL
+07:51:06.975 [main] DEBUG tests.loginTest - Clicked on My Account DropDown in Home Page
+07:51:07.611 [main] DEBUG tests.loginTest - Clicked on Login option under My Account
+07:51:07.808 [main] DEBUG tests.loginTest - Email address got entered
+07:51:07.950 [main] DEBUG tests.loginTest - Password got entered
+07:51:09.148 [main] DEBUG tests.loginTest - Clicked on Login Button
+07:51:09.204 [main] DEBUG tests.loginTest - User didn't log in
+07:51:09.204 [main] INFO  tests.loginTest - Login Test Got Passed
+07:51:09.392 [main] DEBUG tests.loginTest - Browser Got closed
+07:51:37.888 [main] DEBUG tests.loginTest - Browser Got Launched
+07:51:40.356 [main] DEBUG tests.loginTest - Navigated to Application URL
+20:07:14.190 [main] DEBUG tests.loginTest - Browser Got Launched
+20:07:28.044 [main] DEBUG tests.loginTest - Navigated to Application URL
+20:07:28.235 [main] DEBUG tests.loginTest - Clicked on My Account DropDown in Home Page
+20:07:29.641 [main] DEBUG tests.loginTest - Clicked on Login option under My Account
+20:07:29.850 [main] DEBUG tests.loginTest - Email address got entered
+20:07:29.966 [main] DEBUG tests.loginTest - Password got entered
+20:07:31.451 [main] DEBUG tests.loginTest - Clicked on Login Button
+20:07:31.527 [main] DEBUG tests.loginTest - User Got Logged in
+20:07:31.527 [main] INFO  tests.loginTest - Login Test Got Passed
+20:07:31.690 [main] DEBUG tests.loginTest - Browser Got closed
+20:07:33.560 [main] DEBUG tests.loginTest - Browser Got Launched
+20:07:44.830 [main] DEBUG tests.loginTest - Navigated to Application URL
+20:07:44.934 [main] DEBUG tests.loginTest - Clicked on My Account DropDown in Home Page
+20:07:45.487 [main] DEBUG tests.loginTest - Clicked on Login option under My Account
+20:07:45.663 [main] DEBUG tests.loginTest - Email address got entered
+20:07:45.832 [main] DEBUG tests.loginTest - Password got entered
+20:07:46.771 [main] DEBUG tests.loginTest - Clicked on Login Button
+20:07:46.834 [main] DEBUG tests.loginTest - User didn't log in
+20:07:46.834 [main] INFO  tests.loginTest - Login Test Got Passed
+20:07:47.252 [main] DEBUG tests.loginTest - Browser Got closed
