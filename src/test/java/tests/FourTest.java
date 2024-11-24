@@ -17,7 +17,7 @@ public class FourTest extends ProjBase {
 	public void testFour() throws IOException, InterruptedException {
 		
 		System.out.println("Ahmad updated this test-case");
-		
+		System.out.println("alskjfdlsj");
 		System.out.println("Test four is running!");
 		driver = initializeApp();
 		
